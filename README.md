@@ -8,7 +8,9 @@ Software engineering is the systematic application of engineering principles, me
  Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
- Milestones include the development of programming languages , the establishment of software engineering as a discipline in the 1960s, the advent of structured programming in the 1970s
+-The Introduction of Structured Programming (1960s-1970s) Description: Structured programming emerged as a response to the challenges of managing complex software systems, particularly as projects grew in size and complexity. It emphasized the use of clear, hierarchical structures in code, such as loops, conditionals, and subroutines, rather than using "goto" statements, which led to "spaghetti code" that was difficult to read and maintain.
+-The Advent of Object-Oriented Programming (1980s) Description: Object-oriented programming (OOP) introduced a new way of designing software by organizing code into "objects" that encapsulate both data and behavior. OOP languages, such as C++, Java, and later Python, became popular for their ability to model complex systems more naturally and intuitively.
+-The Rise of Agile Methodologies (2000s) Description: Agile methodologies emerged as a response to the limitations of traditional, rigid software development approaches like Waterfall. Agile focuses on iterative development, collaboration, and flexibility, allowing teams to adapt to changing requirements and deliver value to users more quickly.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 - Requirements: Gathering and documenting user needs and system requirements.
